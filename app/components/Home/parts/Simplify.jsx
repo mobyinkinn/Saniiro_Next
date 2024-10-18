@@ -273,7 +273,7 @@ const Simplify = () => {
       <Stack>
         <Stack
           alignItems={"center"}
-          justifyContent={"space-between"}
+          justifyContent={"space-evenly"}
           p={"0 10px"}
           // direction={"row"}
           // zIndex={-1}
@@ -315,7 +315,7 @@ const Simplify = () => {
                   xs: "55px",
                   sm: "55px",
                   lg: "85px",
-                  xl: "108px",
+                  xl: "85px",
                 },
                 textAlign: {
                   xs: "center",
@@ -339,7 +339,7 @@ const Simplify = () => {
                   xs: "55px",
                   sm: "55px",
                   lg: "85px",
-                  xl: "108px",
+                  xl: "85px",
                 },
                 textAlign: {
                   xs: "center",
