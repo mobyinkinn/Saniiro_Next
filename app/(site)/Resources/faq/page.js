@@ -1,11 +1,12 @@
 "use client";
 
-import Resources from "@/app/components/faq/faq";
+import Faq from "@/app/components/Faq/Faq";
+
 
 export default function Index() {
   return (
     <main>
-      <Resources />
+      <Faq />
     </main>
   );
 }
